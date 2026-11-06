@@ -4,10 +4,10 @@
 // without being one of your two approved Google accounts.
 window.HEARTH_CONFIG = {
   // From Google Cloud > Clients. Looks like 1234-abcd.apps.googleusercontent.com
-  CLIENT_ID: "PASTE_YOUR_CLIENT_ID_HERE",
+  CLIENT_ID: "745417397495-fk9kcuhqotbm7ipg11arqabullk7epuo.apps.googleusercontent.com",
 
   // From your Drive folder's address: drive.google.com/drive/folders/<THIS PART>
-  FOLDER_ID: "PASTE_YOUR_FOLDER_ID_HERE",
+  FOLDER_ID: "1Kce0HgXzd7z5lYzlIKYOtpEJ7NtgDn8k",
 
   // What the app calls each of you. Nicknames are fine. Leave "" to use
   // the first name on each Google account.
